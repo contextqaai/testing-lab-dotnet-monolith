@@ -1,3 +1,11 @@
+# ContextQA Testing Lab — ASP.NET Core · monolith
+
+[Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
+
+Source available; hosted sessions and ContextQA execution results are not verified. Original project: [NimblePros/eShopOnWeb](https://github.com/NimblePros/eShopOnWeb). Upstream attribution/license remain in this repository. No upstream endorsement is implied.
+
+## Upstream project documentation
+
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
 This Microsoft reference application is now being maintained by [NimblePros](https://nimblepros.com/).

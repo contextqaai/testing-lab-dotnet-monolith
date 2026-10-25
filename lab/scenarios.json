@@ -1,0 +1,46 @@
+{
+  "title": "ASP.NET Core \u00b7 monolith",
+  "upstream": "https://github.com/NimblePros/eShopOnWeb",
+  "upstream_commit": "f21d6233b851897371c25c5e7ffa67bb8552dba8",
+  "tags": [
+    ".NET",
+    "C#",
+    "ASP.NET Core",
+    "monolith"
+  ],
+  "environment": "container",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "dotnet-monolith-01",
+      "title": "Catalog",
+      "assertion": "A seeded item can be located in the catalog.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "dotnet-monolith-02",
+      "title": "Basket edit",
+      "assertion": "Updating an item changes the quantity shown.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "dotnet-monolith-03",
+      "title": "Calculation",
+      "assertion": "Displayed totals match the fixture values.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "dotnet-monolith-04",
+      "title": "Sign in",
+      "assertion": "A configured test user reaches the signed-in view.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "dotnet-monolith-05",
+      "title": "Navigation",
+      "assertion": "The basket state remains consistent through the supported page navigation.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
